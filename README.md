@@ -14,6 +14,13 @@
   - SF-Express API
 - Front-End Sytstem
   - Webpack
+## 系統概述
+### 系統架構
+![系統架構圖](https://brlin-o.github.io/oneweb/Img/System/系統架構.png)
+### 使用者連線架構
+![使用者連線架構圖](https://brlin-o.github.io/oneweb/Img/System/使用者連線架構.png)
+### CI/CD維運模式
+![CI/CD維運模式圖](https://brlin-o.github.io/oneweb/Img/System/CI-CD.png)
 
 ## 介面說明
 - [oneweb/pages](https://brlin-o.github.io/oneweb/pages/)
